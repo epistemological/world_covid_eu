@@ -591,7 +591,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-11-25,ASM,American Samoa,,38.275283,23.810343,901661,17612,,884049,,,False,False,EL
 2021-11-25,ASM,American Samoa,,46.145528,14.974542,408623,5443,,403180,,,False,False,SI
 2021-11-25,ASM,American Samoa,,49.575693,-2.42318,3443,23,,3420,,,False,False,GG
-2021-11-25,AND,Andorra,Andorra,42.542268,1.596865,16566,131,,16435,9,,False,False,AD
+2021-11-26,AND,Andorra,Andorra,42.542268,1.596865,16712,131,,16581,10,,False,False,AD
 2021-11-25,AGO,Angola,,-9.181352,-75.002365,2226656,200931,,2025725,,,False,False,PE
 2021-07-06,AGO,Angola,,,,1,0,,1,,,False,False,WS
 2021-11-25,AGO,Angola,,12.980909,-61.287392,5446,74,,5372,,,False,False,VC
@@ -20108,7 +20108,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-11-25,LIE,Liechtenstein,,42.729862,25.491667,682552,27778,,654774,,,False,False,BG
 2021-08-02,LIE,Liechtenstein,,-3.387918,29.920395,7505,38,,7467,,,False,False,BI
 2021-11-25,LTU,Lithuania,Lithuania,55.174112,23.906736,464562,6644,428639,29279,,,True,True,LT
-2021-11-24,LUX,Luxembourg,Luxembourg,49.815764,6.131514,87773,864,,86909,,,True,True,LU
+2021-11-25,LUX,Luxembourg,Luxembourg,49.815764,6.131514,88108,866,,87242,,,True,True,LU
 2021-11-25,MDG,Madagascar,,31.276778,37.130583,928256,11429,,916827,,,False,False,JO
 2021-11-25,MDG,Madagascar,,0.863044,6.968272,3731,56,,3675,,,False,False,ST
 2021-11-25,MDG,Madagascar,,35.946151,14.384612,38930,464,,38466,,,False,False,MT
