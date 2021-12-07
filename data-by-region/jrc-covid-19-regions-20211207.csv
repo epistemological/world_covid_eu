@@ -2918,7 +2918,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-12-06,BRB,Barbados,,1.364917,103.822872,269211,759,,268452,,,False,False,SG
 2021-12-06,BRB,Barbados,,3.202833,73.165249,92211,254,,91957,,,False,False,MV
 2021-12-06,BRB,Barbados,,41.873987,12.564167,5109082,134195,,4974887,,,False,False,IT
-2021-12-06,BLR,Belarus,Belarus,53.711111,27.973847,665125,5176,,659949,,,False,False,BY
+2021-12-07,BLR,Belarus,Belarus,53.711111,27.973847,666137,5193,,660944,,,False,False,BY
 2021-12-06,BEL,Belgium,Brussels,50.836426,4.367415,219434,3597,,215837,396,99,True,True,BE1
 2021-12-06,BEL,Belgium,Flanders,51.036569,4.234165,975093,13691,,961402,2107,464,True,True,BE2
 2021-12-06,BEL,Belgium,NOT SPECIFIED,,,30761,0,,30761,0,0,True,True,
@@ -8898,7 +8898,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-12-06,CUW,Curaçao,,,,21003,185,,20818,,,False,False,
 2021-12-06,CUW,Curaçao,,-13.151917,27.852537,210312,3667,,206645,,,False,False,ZM
 2021-11-10,CYP,Cyprus,Cyprus,35.167406,33.435499,127036,662,119992,6382,2592,,True,True,CY
-2021-12-05,CZE,Czech Republic,NOT SPECIFIED,,,2247067,33768,1922562,290737,,,True,True,
+2021-12-06,CZE,Czech Republic,NOT SPECIFIED,,,2262666,33902,1942950,285814,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
 2021-11-30,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
@@ -20107,7 +20107,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-12-06,LIE,Liechtenstein,,1.364917,103.822872,269211,759,,268452,,,False,False,SG
 2021-12-06,LIE,Liechtenstein,,18.036736,-64.801704,7530,87,,7443,,,False,False,VI
 2021-12-06,LIE,Liechtenstein,,48.379888,31.168139,3501955,88520,,3413435,,,False,False,UA
-2021-12-05,LTU,Lithuania,Lithuania,55.174112,23.906736,480310,6862,444874,28574,,,True,True,LT
+2021-12-06,LTU,Lithuania,Lithuania,55.174112,23.906736,482458,6886,448030,27542,,,True,True,LT
 2021-12-05,LUX,Luxembourg,Luxembourg,49.815764,6.131514,91709,885,,90824,,,True,True,LU
 2021-12-06,MDG,Madagascar,,49.575693,-2.42318,4388,23,,4365,,,False,False,GG
 2021-12-06,MDG,Madagascar,,18.573601,-64.492065,2816,38,,2778,,,False,False,VG
@@ -33209,7 +33209,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-12-07,CHE,Switzerland,Geneva,46.217114,6.131255,78157,757,0,77400,92,16,False,False,CH013
 2021-12-07,CHE,Switzerland,Glarus,46.980518,9.065544,5470,95,0,5375,11,0,False,False,CH051
 2021-12-07,CHE,Switzerland,Graubünden,46.658176,9.629923,24275,213,0,24062,61,5,False,False,CH056
-2021-12-07,CHE,Switzerland,Jura,47.368327,7.198733,9829,153,0,9676,37,4,False,False,CH025
+2021-12-07,CHE,Switzerland,Jura,47.368327,7.198733,9904,153,0,9751,37,4,False,False,CH025
 2021-12-07,CHE,Switzerland,Liechtenstein,47.164696,9.555,4941,62,4357,522,11,0,False,False,LI
 2021-12-07,CHE,Switzerland,Lucerne,47.06883,8.116991,48117,383,0,47734,76,0,False,False,CH061
 2021-12-07,CHE,Switzerland,Neuchâtel,46.997282,6.782288,22411,414,0,21997,23,7,False,False,CH024
@@ -33218,7 +33218,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-12-07,CHE,Switzerland,Schaffhausen,47.721853,8.563863,8521,96,0,8425,21,3,False,False,CH052
 2021-12-07,CHE,Switzerland,Schwyz,47.06411,8.761568,23484,293,21475,1716,0,0,False,False,CH063
 2021-12-07,CHE,Switzerland,Solothurn,47.336648,7.686944,28419,294,0,28125,24,7,False,False,CH023
-2021-12-07,CHE,Switzerland,St. Gallen,47.305025,9.019368,75537,773,0,74764,113,19,False,False,CH055
+2021-12-07,CHE,Switzerland,St. Gallen,47.305025,9.019368,76234,774,0,75460,121,18,False,False,CH055
 2021-12-07,CHE,Switzerland,Thurgau,47.567205,9.112572,36734,519,1613,34602,52,9,False,False,CH057
 2021-12-07,CHE,Switzerland,Ticino,46.297963,8.808447,39888,1017,3411,35460,77,11,False,False,CH07
 2021-12-07,CHE,Switzerland,Uri,46.775402,8.627444,5335,57,0,5278,10,0,False,False,CH062
