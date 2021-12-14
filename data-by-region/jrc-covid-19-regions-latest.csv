@@ -16566,7 +16566,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-12-14,IRQ,Iraq,,3.202833,73.165249,93246,258,,92988,,,False,False,MV
 2021-12-14,IRQ,Iraq,,33.872639,35.876736,690841,8860,,681981,,,False,False,LB
 2021-12-14,IRQ,Iraq,,42.729862,25.491667,716647,29688,,686959,,,False,False,BG
-2021-12-13,IRL,Ireland,Ireland,53.41975,-8.240472,628306,5788,,622518,21087,2237,True,True,IE
+2021-12-14,IRL,Ireland,Ireland,53.41975,-8.240472,632177,5788,,626389,21107,2245,True,True,IE
 2021-12-14,IMN,Isle of Man,,,,46410,737,,45673,,,False,False,
 2021-12-14,IMN,Isle of Man,,7.955012,-1.031819,131547,1243,,130304,,,False,False,GH
 2021-12-14,IMN,Isle of Man,,18.115265,-77.273479,91802,2428,,89374,,,False,False,JM
@@ -25573,19 +25573,19 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,MNP,Northern Mariana Islands,Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,MNP,Northern Mariana Islands,Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,MNP,Northern Mariana Islands,Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2021-12-13,NOR,Norway,Agder,58.699661,7.618403,12423,,,12423,,,False,True,NO04
-2021-12-13,NOR,Norway,Innlandet,61.43354,10.427144,12852,,,12852,,,False,True,NO02
-2021-12-13,NOR,Norway,Møre og Romsdal,62.543569,8.540539,7507,,,7507,,,False,True,NO053
-2021-12-13,NOR,Norway,Nordland,66.679716,14.635752,6252,,,6252,,,False,True,NO071
-2021-12-13,NOR,Norway,NOT SPECIFIED,,,,1136,,-1136,6608,1297,False,True,
-2021-12-13,NOR,Norway,Oslo,59.979683,10.738335,80842,,,80842,,,False,True,NO011
+2021-12-14,NOR,Norway,Agder,58.699661,7.618403,12722,,,12722,,,False,True,NO04
+2021-12-14,NOR,Norway,Innlandet,61.43354,10.427144,12991,,,12991,,,False,True,NO02
+2021-12-14,NOR,Norway,Møre og Romsdal,62.543569,8.540539,7587,,,7587,,,False,True,NO053
+2021-12-14,NOR,Norway,Nordland,66.679716,14.635752,6307,,,6307,,,False,True,NO071
+2021-12-14,NOR,Norway,NOT SPECIFIED,,,,1141,,-1141,6655,1305,False,True,
+2021-12-14,NOR,Norway,Oslo,59.979683,10.738335,82022,,,82022,,,False,True,NO011
 2020-03-31,NOR,Norway,Outside mainland Norway,,,1,0,0,1,0,0,False,True,
-2021-12-13,NOR,Norway,Rogaland,58.58709,6.206792,18578,,,18578,,,False,True,NO043
-2021-12-13,NOR,Norway,Troms og Finnmark,70.239335,26.12935,10951,,,10951,,,False,True,NO072
-2021-12-13,NOR,Norway,Trøndelag,63.421183,11.529951,18794,,,18794,,,False,True,NO06
-2021-12-13,NOR,Norway,Vestfold og Telemark,59.493612,8.722188,18812,,,18812,,,False,True,NO033
-2021-12-13,NOR,Norway,Vestland,60.952729,6.513828,26871,,,26871,,,False,True,NO05
-2021-12-13,NOR,Norway,Viken,60.020274,9.849655,98389,,,98389,,,False,True,NO012
+2021-12-14,NOR,Norway,Rogaland,58.58709,6.206792,18923,,,18923,,,False,True,NO043
+2021-12-14,NOR,Norway,Troms og Finnmark,70.239335,26.12935,11062,,,11062,,,False,True,NO072
+2021-12-14,NOR,Norway,Trøndelag,63.421183,11.529951,18972,,,18972,,,False,True,NO06
+2021-12-14,NOR,Norway,Vestfold og Telemark,59.493612,8.722188,19088,,,19088,,,False,True,NO033
+2021-12-14,NOR,Norway,Vestland,60.952729,6.513828,27565,,,27565,,,False,True,NO05
+2021-12-14,NOR,Norway,Viken,60.020274,9.849655,99834,,,99834,,,False,True,NO012
 2021-12-14,OMN,Oman,,43.738348,7.424451,4114,36,,4078,,,False,False,MC
 2021-12-14,OMN,Oman,,44.48732,16.460306,654655,11666,,642989,,,False,False,HR
 2021-12-14,OMN,Oman,,62.393303,-96.818145,1827691,29900,,1797791,,,False,False,CA
@@ -33214,7 +33214,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-12-14,CHE,Switzerland,Lucerne,47.06883,8.116991,51836,389,0,51447,74,0,False,False,CH061
 2021-12-14,CHE,Switzerland,Neuchâtel,46.997282,6.782288,23611,417,0,23194,42,7,False,False,CH024
 2021-12-14,CHE,Switzerland,Nidwalden,46.922198,8.419375,5795,30,0,5765,6,2,False,False,CH065
-2021-12-14,CHE,Switzerland,Obwalden,46.857772,8.209745,5891,54,0,5837,12,0,False,False,CH064
+2021-12-14,CHE,Switzerland,Obwalden,46.857772,8.209745,5924,54,0,5870,12,0,False,False,CH064
 2021-12-14,CHE,Switzerland,Schaffhausen,47.721853,8.563863,9170,100,0,9070,16,4,False,False,CH052
 2021-12-14,CHE,Switzerland,Schwyz,47.06411,8.761568,25345,299,23351,1695,0,0,False,False,CH063
 2021-12-14,CHE,Switzerland,Solothurn,47.336648,7.686944,30411,299,0,30112,45,8,False,False,CH023
