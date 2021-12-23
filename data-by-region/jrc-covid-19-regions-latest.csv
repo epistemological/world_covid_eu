@@ -591,7 +591,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-12-22,ASM,American Samoa,,-1.94708,29.876376,102232,1345,,100887,,,False,False,RW
 2021-12-22,ASM,American Samoa,,18.223285,-66.592731,199150,3287,,195863,,,False,False,PR
 2021-07-06,ASM,American Samoa,,,,26,0,,26,,,False,False,
-2021-12-22,AND,Andorra,Andorra,42.542268,1.596865,21372,138,,21234,32,,False,False,AD
+2021-12-23,AND,Andorra,Andorra,42.542268,1.596865,21571,139,,21432,30,,False,False,AD
 2021-12-22,AGO,Angola,,5.152149,46.199616,23169,1333,,21836,,,False,False,SO
 2021-12-22,AGO,Angola,,15.416749,-61.36413,6520,44,,6476,,,False,False,DM
 2021-12-22,AGO,Angola,,9.624897,-84.253308,568538,7340,,561198,,,False,False,CR
@@ -33206,7 +33206,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-12-23,CHE,Switzerland,Basel Country,47.441812,7.7644,35954,256,17705,17993,76,8,False,False,CH032
 2021-12-23,CHE,Switzerland,Bern,46.825006,7.626925,124542,1316,0,123226,233,38,False,False,CH021
 2021-12-23,CHE,Switzerland,Fribourg,46.710334,7.09922,47868,518,1173,46177,54,10,False,False,CH022
-2021-12-23,CHE,Switzerland,Geneva,46.217114,6.131255,88949,760,0,88189,143,19,False,False,CH013
+2021-12-23,CHE,Switzerland,Geneva,46.217114,6.131255,88953,761,0,88192,141,19,False,False,CH013
 2021-12-23,CHE,Switzerland,Glarus,46.980518,9.065544,6285,98,0,6187,8,0,False,False,CH051
 2021-12-23,CHE,Switzerland,Graubünden,46.658176,9.629923,27849,223,0,27626,45,11,False,False,CH056
 2021-12-23,CHE,Switzerland,Jura,47.368327,7.198733,11677,153,0,11524,38,4,False,False,CH025
