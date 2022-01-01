@@ -10667,7 +10667,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-12-29,ERI,Eritrea,,13.904011,-60.974176,13357,295,,13062,,,False,False,LC
 2021-12-29,ERI,Eritrea,,62.199806,17.637493,1294560,15286,,1279274,,,False,False,SE
 2021-12-29,ERI,Eritrea,,15.18132,39.786709,7931,73,,7858,,,False,False,ER
-2021-12-31,EST,Estonia,Estonia,58.596209,25.023778,241408,,,241408,,,True,True,EE0
+2022-01-01,EST,Estonia,Estonia,58.596209,25.023778,242123,,,242123,,,True,True,EE0
 2021-12-29,ETH,Ethiopia,,46.860945,103.836986,388190,1981,,386209,,,False,False,MN
 2021-12-29,ETH,Ethiopia,,18.115265,-77.273479,92950,2464,,90486,,,False,False,JM
 2021-12-29,ETH,Ethiopia,,12.866726,-85.214298,13563,217,,13346,,,False,False,NI
@@ -19141,7 +19141,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,LAO,Laos,Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,LAO,Laos,Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,LAO,Laos,Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2021-12-31,LVA,Latvia,Latvia,56.875584,24.607722,276674,4570,,272104,,,True,True,LV0
+2022-01-01,LVA,Latvia,Latvia,56.875584,24.607722,276841,4577,,272264,,,True,True,LV0
 2021-12-29,LBN,Lebanon,,18.115265,-77.273479,92950,2464,,90486,,,False,False,JM
 2021-07-06,LBN,Lebanon,,,,1,0,,1,,,False,False,WS
 2021-12-29,LBN,Lebanon,,17.363183,-61.789423,4259,118,,4141,,,False,False,AG
@@ -27345,7 +27345,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-12-29,PHL,Philippines,,18.115265,-77.273479,92950,2464,,90486,,,False,False,JM
 2021-11-22,PHL,Philippines,,12.152588,-61.689557,7873,200,,7673,,,False,False,GD
 2021-12-29,PHL,Philippines,,49.575693,-2.42318,6416,23,,6393,,,False,False,GG
-2021-12-31,POL,Poland,NOT SPECIFIED,,,4108215,97054,3630119,381042,,,True,True,
+2022-01-01,POL,Poland,NOT SPECIFIED,,,4120248,97559,3645692,376997,,,True,True,
 2021-12-29,PRT,Portugal,,5.152149,46.199616,23532,1333,,22199,,,True,True,SO
 2021-12-29,PRT,Portugal,,18.036736,-64.801704,8477,88,,8389,,,True,True,VI
 2021-09-29,PRT,Portugal,,12.517713,-69.965112,15432,253,,15179,,,True,True,AW
