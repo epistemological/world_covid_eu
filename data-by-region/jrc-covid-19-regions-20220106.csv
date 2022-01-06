@@ -21074,7 +21074,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-01-05,MLI,Mali,,15.445718,18.738068,6185,184,,6001,,,False,False,TD
 2022-01-05,MLI,Mali,,4.109319,109.455475,2769886,31591,,2738295,,,False,False,MY
 2022-01-05,MLI,Mali,,,,7283,159,,7124,,,False,False,KM
-2022-01-05,MLT,Malta,Malta,35.946151,14.384612,57128,482,41618,15028,,,True,True,MT001
+2022-01-06,MLT,Malta,Malta,35.946151,14.384612,58272,484,42327,15461,,,True,True,MT001
 2022-01-05,MHL,Marshall Islands,,42.710152,19.410069,177346,2428,,174918,,,False,False,ME
 2022-01-05,MHL,Marshall Islands,,-19.013286,29.146666,217678,5078,,212600,,,False,False,ZW
 2022-01-05,MHL,Marshall Islands,,16.749415,-62.192741,66,1,,65,,,False,False,MS
@@ -33199,7 +33199,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-01-04,SWE,Sweden,Västernorrland,63.096635,17.251241,30965,,,30965,,,True,True,SE321
 2022-01-04,SWE,Sweden,Västmanland,59.801595,16.318208,38845,,,38845,,,True,True,SE125
 2022-01-04,SWE,Sweden,Västra Götaland,58.303302,12.891496,232977,,,232977,,,True,True,SE232
-2022-01-06,CHE,Switzerland,Aargau,47.410914,8.159107,96564,860,84055,11649,109,22,False,False,CH033
+2022-01-06,CHE,Switzerland,Aargau,47.410914,8.159107,98344,861,84780,12703,105,23,False,False,CH033
 2022-01-06,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,2867,50,0,2817,18,1,False,False,CH053
 2022-01-06,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,3290,22,0,3268,0,0,False,False,CH054
 2022-01-06,CHE,Switzerland,Basel City,47.561925,7.592768,28081,254,25697,2130,86,19,False,False,CH031
