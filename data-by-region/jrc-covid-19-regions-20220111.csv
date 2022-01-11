@@ -19141,7 +19141,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,LAO,Laos,Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,LAO,Laos,Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,LAO,Laos,Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2022-01-10,LVA,Latvia,Latvia,56.875584,24.607722,288715,4661,,284054,,,True,True,LV0
+2022-01-11,LVA,Latvia,Latvia,56.875584,24.607722,290956,4668,,286288,,,True,True,LV0
 2022-01-10,LBN,Lebanon,,17.363183,-61.789423,5058,120,,4938,,,False,False,AG
 2022-01-10,LBN,Lebanon,,48.379888,31.168139,3704442,97325,,3607117,,,False,False,UA
 2022-01-10,LBN,Lebanon,,18.115265,-77.273479,102505,2499,,100006,,,False,False,JM
@@ -31583,7 +31583,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-15,SVN,Slovenia,Goriške,46.097666,13.774357,0,0,0,0,0,0,True,True,SI043
 2020-04-15,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,0,0,0,0,0,0,True,True,SI037
 2020-04-15,SVN,Slovenia,Koroške,46.533032,15.087509,0,0,0,0,0,0,True,True,SI033
-2022-01-09,SVN,Slovenia,NOT SPECIFIED,,,493258,6125,10635,476498,572,157,True,True,
+2022-01-10,SVN,Slovenia,NOT SPECIFIED,,,498506,6146,10700,481660,553,160,True,True,
 2020-04-15,SVN,Slovenia,Obalno-kraške,45.62157,13.972922,0,0,0,0,0,0,True,True,SI044
 2020-04-15,SVN,Slovenia,Osrednjeslovenske,46.029176,14.58787,0,0,0,0,0,0,True,True,SI041
 2020-04-15,SVN,Slovenia,Podravske,46.474579,15.744954,0,0,0,0,0,0,True,True,SI032
@@ -33207,7 +33207,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-01-11,CHE,Switzerland,Bern,46.825006,7.626925,153510,1372,0,152138,225,37,False,False,CH021
 2022-01-11,CHE,Switzerland,Fribourg,46.710334,7.09922,64799,529,1255,63015,56,8,False,False,CH022
 2022-01-11,CHE,Switzerland,Geneva,46.217114,6.131255,116134,801,0,115333,246,14,False,False,CH013
-2022-01-11,CHE,Switzerland,Glarus,46.980518,9.065544,7241,100,0,7141,6,0,False,False,CH051
+2022-01-11,CHE,Switzerland,Glarus,46.980518,9.065544,7278,101,0,7177,6,0,False,False,CH051
 2022-01-11,CHE,Switzerland,Graubünden,46.658176,9.629923,40247,234,0,40013,31,8,False,False,CH056
 2022-01-11,CHE,Switzerland,Jura,47.368327,7.198733,15036,159,0,14877,45,4,False,False,CH025
 2022-01-11,CHE,Switzerland,Liechtenstein,47.164696,9.555,6782,71,6230,481,4,0,False,False,LI
@@ -33217,9 +33217,9 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-01-11,CHE,Switzerland,Obwalden,46.857772,8.209745,7841,55,0,7786,10,0,False,False,CH064
 2022-01-11,CHE,Switzerland,Schaffhausen,47.721853,8.563863,12434,103,0,12331,11,1,False,False,CH052
 2022-01-11,CHE,Switzerland,Schwyz,47.06411,8.761568,32050,336,29524,2190,0,0,False,False,CH063
-2022-01-11,CHE,Switzerland,Solothurn,47.336648,7.686944,40242,315,0,39927,33,11,False,False,CH023
+2022-01-11,CHE,Switzerland,Solothurn,47.336648,7.686944,40713,315,0,40398,30,11,False,False,CH023
 2022-01-11,CHE,Switzerland,St. Gallen,47.305025,9.019368,99348,811,0,98537,66,15,False,False,CH055
-2022-01-11,CHE,Switzerland,Thurgau,47.567205,9.112572,51105,575,1876,48654,36,10,False,False,CH057
+2022-01-11,CHE,Switzerland,Thurgau,47.567205,9.112572,51516,575,1878,49063,41,12,False,False,CH057
 2022-01-11,CHE,Switzerland,Ticino,46.297963,8.808447,67895,1067,3411,63417,178,19,False,False,CH07
 2022-01-11,CHE,Switzerland,Uri,46.775402,8.627444,7214,59,0,7155,8,0,False,False,CH062
 2022-01-11,CHE,Switzerland,Valais,46.211633,7.611267,77025,785,0,76240,123,13,False,False,CH012
