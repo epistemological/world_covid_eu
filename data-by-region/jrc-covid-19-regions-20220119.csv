@@ -33213,7 +33213,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-01-19,CHE,Switzerland,Liechtenstein,47.164696,9.555,7488,73,7061,354,1,0,False,False,LI
 2022-01-19,CHE,Switzerland,Lucerne,47.06883,8.116991,80562,428,0,80134,56,0,False,False,CH061
 2022-01-19,CHE,Switzerland,Neuchâtel,46.997282,6.782288,39443,434,0,39009,82,2,False,False,CH024
-2022-01-19,CHE,Switzerland,Nidwalden,46.922198,8.419375,8639,32,0,8607,5,0,False,False,CH065
+2022-01-19,CHE,Switzerland,Nidwalden,46.922198,8.419375,8818,33,0,8785,5,0,False,False,CH065
 2022-01-19,CHE,Switzerland,Obwalden,46.857772,8.209745,8488,55,0,8433,7,0,False,False,CH064
 2022-01-19,CHE,Switzerland,Schaffhausen,47.721853,8.563863,13990,105,0,13885,10,1,False,False,CH052
 2022-01-19,CHE,Switzerland,Schwyz,47.06411,8.761568,35518,341,33912,1265,0,0,False,False,CH063
