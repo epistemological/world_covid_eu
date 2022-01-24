@@ -2918,7 +2918,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-01-21,BRB,Barbados,,15.776261,-90.229744,659655,16203,,643452,,,False,False,GT
 2022-01-21,BRB,Barbados,,17.579757,-3.998823,29360,704,,28656,,,False,False,ML
 2022-01-21,BRB,Barbados,,41.156986,20.181222,241512,3286,,238226,,,False,False,AL
-2022-01-23,BLR,Belarus,Belarus,53.711111,27.973847,726860,5933,,720927,,,False,False,BY
+2022-01-24,BLR,Belarus,Belarus,53.711111,27.973847,728804,5949,,722855,,,False,False,BY
 2022-01-21,BEL,Belgium,Brussels,50.836426,4.367415,332943,3865,,329078,612,81,True,True,BE1
 2022-01-21,BEL,Belgium,Flanders,51.036569,4.234165,1438613,14378,,1424235,1276,156,True,True,BE2
 2022-01-21,BEL,Belgium,NOT SPECIFIED,,,42937,0,,42937,0,0,True,True,
@@ -19141,7 +19141,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,LAO,Laos,Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,LAO,Laos,Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,LAO,Laos,Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2022-01-23,LVA,Latvia,Latvia,56.875584,24.607722,335541,4795,,330746,,,True,True,LV0
+2022-01-24,LVA,Latvia,Latvia,56.875584,24.607722,339494,4799,,334695,,,True,True,LV0
 2022-01-21,LBN,Lebanon,,47.164696,9.555,7746,67,,7679,,,False,False,LI
 2022-01-21,LBN,Lebanon,,56.155403,11.617223,1272864,3550,,1269314,,,False,False,DK
 2022-01-21,LBN,Lebanon,,41.611,21.751417,250876,8166,,242710,,,False,False,MK
@@ -31570,15 +31570,15 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,SXM,Sint Maarten (Dutch part),Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,SXM,Sint Maarten (Dutch part),Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,SXM,Sint Maarten (Dutch part),Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2022-01-23,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,96361,,,96361,,,True,True,SK032
-2022-01-23,SVK,Slovakia,Bratislava,48.319003,17.17481,114326,,,114326,,,True,True,SK010
-2022-01-23,SVK,Slovakia,Košice,48.771358,20.721931,125628,,,125628,,,True,True,SK042
-2022-01-23,SVK,Slovakia,Nitra,48.140652,18.30311,84604,,,84604,,,True,True,SK023
-2022-01-23,SVK,Slovakia,NOT SPECIFIED,,,1,17643,,-17642,1497,309,True,True,
-2022-01-23,SVK,Slovakia,Prešov,49.126441,21.221321,143930,,,143930,,,True,True,SK041
-2022-01-23,SVK,Slovakia,Trencín,48.858564,18.202196,112616,,,112616,,,True,True,SK022
-2022-01-23,SVK,Slovakia,Trnava,48.222651,17.707847,101737,,,101737,,,True,True,SK021
-2022-01-23,SVK,Slovakia,Zilina,49.178517,19.167163,138716,,,138716,,,True,True,SK031
+2022-01-24,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,96607,,,96607,,,True,True,SK032
+2022-01-24,SVK,Slovakia,Bratislava,48.319003,17.17481,115188,,,115188,,,True,True,SK010
+2022-01-24,SVK,Slovakia,Košice,48.771358,20.721931,126144,,,126144,,,True,True,SK042
+2022-01-24,SVK,Slovakia,Nitra,48.140652,18.30311,84931,,,84931,,,True,True,SK023
+2022-01-24,SVK,Slovakia,NOT SPECIFIED,,,1,17675,,-17674,1497,308,True,True,
+2022-01-24,SVK,Slovakia,Prešov,49.126441,21.221321,144192,,,144192,,,True,True,SK041
+2022-01-24,SVK,Slovakia,Trencín,48.858564,18.202196,112953,,,112953,,,True,True,SK022
+2022-01-24,SVK,Slovakia,Trnava,48.222651,17.707847,102036,,,102036,,,True,True,SK021
+2022-01-24,SVK,Slovakia,Zilina,49.178517,19.167163,139370,,,139370,,,True,True,SK031
 2020-04-15,SVN,Slovenia,Gorenjske,46.304671,14.137367,0,0,0,0,0,0,True,True,SI042
 2020-04-15,SVN,Slovenia,Goriške,46.097666,13.774357,0,0,0,0,0,0,True,True,SI043
 2020-04-15,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,0,0,0,0,0,0,True,True,SI037
@@ -33207,7 +33207,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-01-24,CHE,Switzerland,Bern,46.825006,7.626925,186564,1400,0,185164,164,19,False,False,CH021
 2022-01-24,CHE,Switzerland,Fribourg,46.710334,7.09922,74038,535,1281,72222,77,8,False,False,CH022
 2022-01-24,CHE,Switzerland,Geneva,46.217114,6.131255,142297,805,0,141492,290,13,False,False,CH013
-2022-01-24,CHE,Switzerland,Glarus,46.980518,9.065544,8441,101,0,8340,6,0,False,False,CH051
+2022-01-24,CHE,Switzerland,Glarus,46.980518,9.065544,8790,101,0,8689,7,0,False,False,CH051
 2022-01-24,CHE,Switzerland,Graubünden,46.658176,9.629923,50348,241,0,50107,39,5,False,False,CH056
 2022-01-24,CHE,Switzerland,Jura,47.368327,7.198733,20174,170,0,20004,31,1,False,False,CH025
 2022-01-24,CHE,Switzerland,Liechtenstein,47.164696,9.555,8013,73,7612,328,1,0,False,False,LI
