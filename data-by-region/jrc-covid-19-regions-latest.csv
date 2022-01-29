@@ -19141,7 +19141,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,LAO,Laos,Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,LAO,Laos,Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,LAO,Laos,Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2022-01-28,LVA,Latvia,Latvia,56.875584,24.607722,372503,4855,,367648,,,True,True,LV0
+2022-01-29,LVA,Latvia,Latvia,56.875584,24.607722,382129,4862,,377267,,,True,True,LV0
 2022-01-28,LBN,Lebanon,,,,180531,500,,180031,,,False,False,
 2022-01-28,LBN,Lebanon,,46.232193,2.209667,17643246,127249,,17515997,,,False,False,FR
 2022-01-28,LBN,Lebanon,,34.668138,104.165802,138310,5700,,132610,,,False,False,CN
@@ -33202,7 +33202,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-01-29,CHE,Switzerland,Aargau,47.410914,8.159107,140734,884,108600,31250,107,16,False,False,CH033
 2022-01-29,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,2867,50,0,2817,18,1,False,False,CH053
 2022-01-29,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,4173,24,0,4149,0,0,False,False,CH054
-2022-01-29,CHE,Switzerland,Basel City,47.561925,7.592768,41921,262,39425,2234,114,12,False,False,CH031
+2022-01-29,CHE,Switzerland,Basel City,47.561925,7.592768,42685,262,40199,2224,0,0,False,False,CH031
 2022-01-29,CHE,Switzerland,Basel Country,47.441812,7.7644,61023,267,17705,43051,76,8,False,False,CH032
 2022-01-29,CHE,Switzerland,Bern,46.825006,7.626925,214323,1416,0,212907,188,27,False,False,CH021
 2022-01-29,CHE,Switzerland,Fribourg,46.710334,7.09922,85450,535,1322,83593,91,6,False,False,CH022
