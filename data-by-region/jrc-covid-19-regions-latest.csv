@@ -31570,15 +31570,15 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,SXM,Sint Maarten (Dutch part),Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,SXM,Sint Maarten (Dutch part),Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,SXM,Sint Maarten (Dutch part),Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2022-02-01,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,102693,,,102693,,,True,True,SK032
-2022-02-01,SVK,Slovakia,Bratislava,48.319003,17.17481,127516,,,127516,,,True,True,SK010
-2022-02-01,SVK,Slovakia,Košice,48.771358,20.721931,136406,,,136406,,,True,True,SK042
-2022-02-01,SVK,Slovakia,Nitra,48.140652,18.30311,93599,,,93599,,,True,True,SK023
-2022-02-01,SVK,Slovakia,NOT SPECIFIED,,,,17830,,-17830,1547,289,True,True,
-2022-02-01,SVK,Slovakia,Prešov,49.126441,21.221321,158382,,,158382,,,True,True,SK041
-2022-02-01,SVK,Slovakia,Trencín,48.858564,18.202196,121825,,,121825,,,True,True,SK022
-2022-02-01,SVK,Slovakia,Trnava,48.222651,17.707847,113141,,,113141,,,True,True,SK021
-2022-02-01,SVK,Slovakia,Zilina,49.178517,19.167163,154579,,,154579,,,True,True,SK031
+2022-02-02,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,105390,,,105390,,,True,True,SK032
+2022-02-02,SVK,Slovakia,Bratislava,48.319003,17.17481,132446,,,132446,,,True,True,SK010
+2022-02-02,SVK,Slovakia,Košice,48.771358,20.721931,140599,,,140599,,,True,True,SK042
+2022-02-02,SVK,Slovakia,Nitra,48.140652,18.30311,97216,,,97216,,,True,True,SK023
+2022-02-02,SVK,Slovakia,NOT SPECIFIED,,,,17877,,-17877,1698,283,True,True,
+2022-02-02,SVK,Slovakia,Prešov,49.126441,21.221321,163617,,,163617,,,True,True,SK041
+2022-02-02,SVK,Slovakia,Trencín,48.858564,18.202196,126007,,,126007,,,True,True,SK022
+2022-02-02,SVK,Slovakia,Trnava,48.222651,17.707847,117416,,,117416,,,True,True,SK021
+2022-02-02,SVK,Slovakia,Zilina,49.178517,19.167163,160317,,,160317,,,True,True,SK031
 2020-04-15,SVN,Slovenia,Gorenjske,46.304671,14.137367,0,0,0,0,0,0,True,True,SI042
 2020-04-15,SVN,Slovenia,Goriške,46.097666,13.774357,0,0,0,0,0,0,True,True,SI043
 2020-04-15,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,0,0,0,0,0,0,True,True,SI037
