@@ -1,6 +1,6 @@
 Date,iso3,Continent,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CurrentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry,NUTS
 2022-02-07,AFG,AS,Afghanistan,33.930445,67.678945,346347736,4955332,,,,,False,False,AF
-2022-02-06,ALB,EU,Albania,41.156986,20.181222,264624,3380,247636,13608,137,15,False,False,AL
+2022-02-07,ALB,EU,Albania,41.156986,20.181222,264875,3387,248882,12606,108,18,False,False,AL
 2022-02-07,DZA,AF,Algeria,28.026875,1.65284,346347736,4955332,,,,,False,False,DZ
 2022-02-07,ASM,OC,American Samoa,-12.716089,-170.253983,346347736,4955332,,,,,False,False,
 2022-02-07,AND,EU,Andorra,42.542268,1.596865,36808,147,,,17,,False,False,AD
