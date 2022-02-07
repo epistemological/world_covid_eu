@@ -33209,7 +33209,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-02-06,CHE,Switzerland,Geneva,46.217114,6.131255,171363,810,0,170553,198,11,False,False,CH013
 2022-02-06,CHE,Switzerland,Glarus,46.980518,9.065544,10798,102,0,10696,7,0,False,False,CH051
 2022-02-06,CHE,Switzerland,Graubünden,46.658176,9.629923,59850,243,0,59607,32,4,False,False,CH056
-2022-02-06,CHE,Switzerland,Jura,47.368327,7.198733,24623,186,0,24437,37,2,False,False,CH025
+2022-02-06,CHE,Switzerland,Jura,47.368327,7.198733,24623,186,0,24437,34,1,False,False,CH025
 2022-02-06,CHE,Switzerland,Liechtenstein,47.164696,9.555,9672,74,8942,656,4,0,False,False,LI
 2022-02-06,CHE,Switzerland,Lucerne,47.06883,8.116991,108636,440,0,108196,54,0,False,False,CH061
 2022-02-06,CHE,Switzerland,Neuchâtel,46.997282,6.782288,54791,441,0,54350,74,4,False,False,CH024
