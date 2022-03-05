@@ -10996,7 +10996,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-03-04,ERI,Eritrea,,13.445412,-15.311436,11948,365,,11583,,,False,False,GM
 2022-03-04,ERI,Eritrea,,19.512365,-80.580024,19373,17,,19356,,,False,False,KY
 2022-02-25,ERI,Eritrea,,,,33,1,,32,,,False,False,WS
-2022-03-03,EST,Estonia,Estonia,58.596209,25.023778,507711,,,507711,,,True,True,EE0
+2022-03-05,EST,Estonia,Estonia,58.596209,25.023778,514067,,,514067,,,True,True,EE0
 2022-03-04,ETH,Ethiopia,,18.115265,-77.273479,128108,2815,,125293,,,False,False,JM
 2022-03-01,ETH,Ethiopia,,71.702379,-42.177174,11747,19,,11728,,,False,False,GRL
 2022-03-04,ETH,Ethiopia,,-6.48825,148.403152,41421,638,,40783,,,False,False,PG
@@ -33869,7 +33869,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-03-05,CHE,Switzerland,Geneva,46.217114,6.131255,186180,894,0,185286,461,3,False,False,CH013
 2022-03-05,CHE,Switzerland,Glarus,46.980518,9.065544,11406,102,0,11304,7,0,False,False,CH051
 2022-03-05,CHE,Switzerland,Graubünden,46.658176,9.629923,74713,251,0,74462,21,2,False,False,CH056
-2022-03-05,CHE,Switzerland,Jura,47.368327,7.198733,27429,191,0,27238,23,1,False,False,CH025
+2022-03-05,CHE,Switzerland,Jura,47.368327,7.198733,27578,191,0,27387,23,1,False,False,CH025
 2022-03-05,CHE,Switzerland,Liechtenstein,47.164696,9.555,12681,78,11863,740,6,0,False,False,LI
 2022-03-05,CHE,Switzerland,Lucerne,47.06883,8.116991,140514,448,0,140066,53,0,False,False,CH061
 2022-03-05,CHE,Switzerland,Neuchâtel,46.997282,6.782288,66041,453,0,65588,53,5,False,False,CH024
