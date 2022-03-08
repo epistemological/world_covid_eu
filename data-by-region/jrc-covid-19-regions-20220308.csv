@@ -600,7 +600,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-03-07,ASM,American Samoa,,7.874097,80.767098,650140,16331,,633809,,,False,False,LK
 2022-03-07,ASM,American Samoa,,71.702379,-42.177174,11810,20,,11790,,,False,False,GRL
 2022-03-07,ASM,American Samoa,,-21.123889,165.846901,56969,302,,56667,,,False,False,NC
-2022-03-07,AND,Andorra,Andorra,42.542268,1.596865,38620,151,,38469,13,,False,False,AD
+2022-03-08,AND,Andorra,Andorra,42.542268,1.596865,38710,152,,38558,11,,False,False,AD
 2022-03-07,AGO,Angola,,12.209209,-68.945576,39083,261,,38822,,,False,False,CW
 2022-03-07,AGO,Angola,,,,302162,666,,301496,,,False,False,
 2022-03-07,AGO,Angola,,21.516861,55.859291,384818,4249,,380569,,,False,False,OM
