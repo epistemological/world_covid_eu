@@ -34306,7 +34306,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-03-16,CHE,Switzerland,Lucerne,47.06883,8.116991,163045,452,0,162593,92,0,False,False,CH061
 2022-03-16,CHE,Switzerland,Neuchâtel,46.997282,6.782288,68838,456,0,68382,35,4,False,False,CH024
 2022-03-16,CHE,Switzerland,Nidwalden,46.922198,8.419375,16980,36,0,16944,9,1,False,False,CH065
-2022-03-16,CHE,Switzerland,Obwalden,46.857772,8.209745,15484,60,0,15424,9,0,False,False,CH064
+2022-03-16,CHE,Switzerland,Obwalden,46.857772,8.209745,15630,60,0,15570,8,0,False,False,CH064
 2022-03-16,CHE,Switzerland,Schaffhausen,47.721853,8.563863,27687,113,0,27574,23,3,False,False,CH052
 2022-03-16,CHE,Switzerland,Schwyz,47.06411,8.761568,57450,358,55875,1217,0,0,False,False,CH063
 2022-03-16,CHE,Switzerland,Solothurn,47.336648,7.686944,99309,348,0,98961,51,6,False,False,CH023
