@@ -20846,7 +20846,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-03-23,LIE,Liechtenstein,,,,8076,160,,7916,,,False,False,KM
 2022-03-23,LIE,Liechtenstein,,7.365302,12.34344,119414,1926,,117488,,,False,False,CM
 2022-03-23,LIE,Liechtenstein,,28.026875,1.65284,265573,6873,,258700,,,False,False,DZ
-2022-03-22,LTU,Lithuania,Lithuania,55.174112,23.906736,1002365,8769,923301,70295,,,True,True,LT
+2022-03-23,LTU,Lithuania,Lithuania,55.174112,23.906736,1006330,8788,928106,69436,,,True,True,LT
 2022-03-22,LUX,Luxembourg,Luxembourg,49.815764,6.131514,203861,1019,,202842,,,True,True,LU
 2022-03-23,MDG,Madagascar,,-18.777193,46.854328,63928,1380,,62548,,,False,False,MG
 2022-03-23,MDG,Madagascar,,11.808375,42.595222,15574,189,,15385,,,False,False,DJ
@@ -34319,8 +34319,8 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-03-23,CHE,Switzerland,Geneva,46.217114,6.131255,196419,995,0,195424,449,2,False,False,CH013
 2022-03-23,CHE,Switzerland,Glarus,46.980518,9.065544,11406,102,0,11304,7,0,False,False,CH051
 2022-03-23,CHE,Switzerland,Graubünden,46.658176,9.629923,86699,251,0,86448,33,1,False,False,CH056
-2022-03-23,CHE,Switzerland,Jura,47.368327,7.198733,29920,207,0,29713,26,1,False,False,CH025
-2022-03-23,CHE,Switzerland,Liechtenstein,47.164696,9.555,15649,83,15081,485,9,0,False,False,LI
+2022-03-23,CHE,Switzerland,Jura,47.368327,7.198733,29966,207,0,29759,26,1,False,False,CH025
+2022-03-23,CHE,Switzerland,Liechtenstein,47.164696,9.555,15761,83,15189,489,9,0,False,False,LI
 2022-03-23,CHE,Switzerland,Lucerne,47.06883,8.116991,170864,457,0,170407,90,0,False,False,CH061
 2022-03-23,CHE,Switzerland,Neuchâtel,46.997282,6.782288,71111,457,0,70654,36,0,False,False,CH024
 2022-03-23,CHE,Switzerland,Nidwalden,46.922198,8.419375,17610,36,0,17574,7,2,False,False,CH065
@@ -34328,7 +34328,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-03-23,CHE,Switzerland,Schaffhausen,47.721853,8.563863,29586,118,0,29468,16,3,False,False,CH052
 2022-03-23,CHE,Switzerland,Schwyz,47.06411,8.761568,57450,358,55875,1217,0,0,False,False,CH063
 2022-03-23,CHE,Switzerland,Solothurn,47.336648,7.686944,106623,350,0,106273,66,7,False,False,CH023
-2022-03-23,CHE,Switzerland,St. Gallen,47.305025,9.019368,200368,851,0,199517,89,8,False,False,CH055
+2022-03-23,CHE,Switzerland,St. Gallen,47.305025,9.019368,201699,852,0,200847,75,8,False,False,CH055
 2022-03-23,CHE,Switzerland,Thurgau,47.567205,9.112572,111828,631,2342,108855,56,3,False,False,CH057
 2022-03-23,CHE,Switzerland,Ticino,46.297963,8.808447,135027,1147,3411,130469,186,19,False,False,CH07
 2022-03-23,CHE,Switzerland,Uri,46.775402,8.627444,15049,68,0,14981,6,0,False,False,CH062
