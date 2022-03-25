@@ -34319,8 +34319,8 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-03-24,CHE,Switzerland,Geneva,46.217114,6.131255,196419,995,0,195424,449,2,False,False,CH013
 2022-03-24,CHE,Switzerland,Glarus,46.980518,9.065544,11406,102,0,11304,7,0,False,False,CH051
 2022-03-24,CHE,Switzerland,Graubünden,46.658176,9.629923,87139,253,0,86886,33,1,False,False,CH056
-2022-03-24,CHE,Switzerland,Jura,47.368327,7.198733,30036,207,0,29829,27,1,False,False,CH025
-2022-03-24,CHE,Switzerland,Liechtenstein,47.164696,9.555,15761,83,15189,489,9,0,False,False,LI
+2022-03-24,CHE,Switzerland,Jura,47.368327,7.198733,30118,207,0,29911,28,1,False,False,CH025
+2022-03-24,CHE,Switzerland,Liechtenstein,47.164696,9.555,15889,83,15280,526,11,0,False,False,LI
 2022-03-24,CHE,Switzerland,Lucerne,47.06883,8.116991,171773,461,0,171312,90,0,False,False,CH061
 2022-03-24,CHE,Switzerland,Neuchâtel,46.997282,6.782288,71932,457,0,71475,32,1,False,False,CH024
 2022-03-24,CHE,Switzerland,Nidwalden,46.922198,8.419375,17650,36,0,17614,5,2,False,False,CH065
