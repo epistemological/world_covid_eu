@@ -23411,7 +23411,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-03-25,MNG,Mongolia,,-13.151917,27.852537,316312,3965,,312347,,,False,False,ZM
 2022-03-25,MNG,Mongolia,,17.363183,-61.789423,7482,135,,7347,,,False,False,AG
 2022-03-25,MNG,Mongolia,,46.232193,2.209667,23903547,138273,,23765274,,,False,False,FR
-2022-03-27,MNE,Montenegro,Montenegro,42.710152,19.410069,232777,2698,,230079,0,,False,True,ME
+2022-03-28,MNE,Montenegro,Montenegro,42.710152,19.410069,232832,2699,,230133,0,,False,True,ME
 2022-03-25,MSR,Montserrat,,9.934887,-11.283845,36459,440,,36019,,,False,False,GN
 2021-07-06,MSR,Montserrat,,,,3,0,,3,,,False,False,VU
 2022-03-25,MSR,Montserrat,,41.873987,12.564167,14153098,158436,,13994662,,,False,False,IT
@@ -34313,7 +34313,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-03-28,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,2867,50,0,2817,18,1,False,False,CH053
 2022-03-28,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,6464,24,0,6440,0,0,False,False,CH054
 2022-03-28,CHE,Switzerland,Basel City,47.561925,7.592768,76496,277,74919,1300,133,8,False,False,CH031
-2022-03-28,CHE,Switzerland,Basel Country,47.441812,7.7644,115573,287,17705,97581,76,8,False,False,CH032
+2022-03-28,CHE,Switzerland,Basel Country,47.441812,7.7644,115770,288,17705,97777,76,8,False,False,CH032
 2022-03-28,CHE,Switzerland,Bern,46.825006,7.626925,386518,1505,0,385013,261,25,False,False,CH021
 2022-03-28,CHE,Switzerland,Fribourg,46.710334,7.09922,137409,564,1914,134931,75,6,False,False,CH022
 2022-03-28,CHE,Switzerland,Geneva,46.217114,6.131255,196419,995,0,195424,449,5,False,False,CH013
