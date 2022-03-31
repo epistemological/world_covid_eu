@@ -26436,19 +26436,19 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,MNP,Northern Mariana Islands,Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,MNP,Northern Mariana Islands,Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,MNP,Northern Mariana Islands,Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2022-03-30,NOR,Norway,Agder,58.699661,7.618403,78264,,,78264,,,False,True,NO04
-2022-03-30,NOR,Norway,Innlandet,61.43354,10.427144,76882,,,76882,,,False,True,NO02
-2022-03-30,NOR,Norway,Møre og Romsdal,62.543569,8.540539,51771,,,51771,,,False,True,NO053
-2022-03-30,NOR,Norway,Nordland,66.679716,14.635752,38098,,,38098,,,False,True,NO071
-2022-03-30,NOR,Norway,NOT SPECIFIED,,,,2518,,-2518,11323,1857,False,True,
-2022-03-30,NOR,Norway,Oslo,59.979683,10.738335,253413,,,253413,,,False,True,NO011
+2022-03-31,NOR,Norway,Agder,58.699661,7.618403,78365,,,78365,,,False,True,NO04
+2022-03-31,NOR,Norway,Innlandet,61.43354,10.427144,76986,,,76986,,,False,True,NO02
+2022-03-31,NOR,Norway,Møre og Romsdal,62.543569,8.540539,51920,,,51920,,,False,True,NO053
+2022-03-31,NOR,Norway,Nordland,66.679716,14.635752,38260,,,38260,,,False,True,NO071
+2022-03-31,NOR,Norway,NOT SPECIFIED,,,,2518,,-2518,11372,1859,False,True,
+2022-03-31,NOR,Norway,Oslo,59.979683,10.738335,253694,,,253694,,,False,True,NO011
 2020-03-31,NOR,Norway,Outside mainland Norway,,,1,0,0,1,0,0,False,True,
-2022-03-30,NOR,Norway,Rogaland,58.58709,6.206792,119365,,,119365,,,False,True,NO043
-2022-03-30,NOR,Norway,Troms og Finnmark,70.239335,26.12935,46937,,,46937,,,False,True,NO072
-2022-03-30,NOR,Norway,Trøndelag,63.421183,11.529951,98549,,,98549,,,False,True,NO06
-2022-03-30,NOR,Norway,Vestfold og Telemark,59.493612,8.722188,99688,,,99688,,,False,True,NO033
-2022-03-30,NOR,Norway,Vestland,60.952729,6.513828,140910,,,140910,,,False,True,NO05
-2022-03-30,NOR,Norway,Viken,60.020274,9.849655,377835,,,377835,,,False,True,NO012
+2022-03-31,NOR,Norway,Rogaland,58.58709,6.206792,119549,,,119549,,,False,True,NO043
+2022-03-31,NOR,Norway,Troms og Finnmark,70.239335,26.12935,47007,,,47007,,,False,True,NO072
+2022-03-31,NOR,Norway,Trøndelag,63.421183,11.529951,98646,,,98646,,,False,True,NO06
+2022-03-31,NOR,Norway,Vestfold og Telemark,59.493612,8.722188,99883,,,99883,,,False,True,NO033
+2022-03-31,NOR,Norway,Vestland,60.952729,6.513828,141171,,,141171,,,False,True,NO05
+2022-03-31,NOR,Norway,Viken,60.020274,9.849655,378182,,,378182,,,False,True,NO012
 2022-03-30,OMN,Oman,,21.692252,-71.803756,5888,36,,5852,,,False,False,TC
 2022-03-30,OMN,Oman,,35.946151,14.384612,77099,631,,76468,,,False,False,MT
 2022-03-30,OMN,Oman,,21.00681,-10.947098,58668,982,,57686,,,False,False,MR
@@ -34337,7 +34337,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-03-31,CHE,Switzerland,Geneva,46.217114,6.131255,196419,995,0,195424,449,2,False,False,CH013
 2022-03-31,CHE,Switzerland,Glarus,46.980518,9.065544,11406,102,0,11304,7,0,False,False,CH051
 2022-03-31,CHE,Switzerland,Graubünden,46.658176,9.629923,88887,255,0,88632,28,1,False,False,CH056
-2022-03-31,CHE,Switzerland,Jura,47.368327,7.198733,30537,207,0,30330,32,1,False,False,CH025
+2022-03-31,CHE,Switzerland,Jura,47.368327,7.198733,30537,207,0,30330,32,0,False,False,CH025
 2022-03-31,CHE,Switzerland,Liechtenstein,47.164696,9.555,16378,84,15927,367,7,0,False,False,LI
 2022-03-31,CHE,Switzerland,Lucerne,47.06883,8.116991,175100,464,0,174636,84,0,False,False,CH061
 2022-03-31,CHE,Switzerland,Neuchâtel,46.997282,6.782288,73576,457,0,73119,36,1,False,False,CH024
