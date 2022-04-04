@@ -17245,7 +17245,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-04-01,IRQ,Iraq,,17.611,8.080946,8801,308,,8493,,,False,False,NE
 2022-04-01,IRQ,Iraq,,23.886291,45.081139,750814,9045,,741769,,,False,False,SA
 2022-04-01,IRQ,Iraq,,42.729862,25.491667,1138923,36529,,1102394,,,False,False,BG
-2022-04-01,IRL,Ireland,Ireland,53.41975,-8.240472,1465150,6786,,1458364,33876,2576,True,True,IE
+2022-04-04,IRL,Ireland,Ireland,53.41975,-8.240472,1474374,6799,,1467575,34159,2580,True,True,IE
 2021-07-06,IMN,Isle of Man,,,,4,0,,4,,,False,False,MH
 2022-04-01,IMN,Isle of Man,,33.892166,9.561556,1035884,28323,,1007561,,,False,False,TN
 2022-04-01,IMN,Isle of Man,,26.338522,17.268816,501705,6415,,495290,,,False,False,LY
@@ -20859,7 +20859,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-04-01,LIE,Liechtenstein,,,,145507,914,,144593,,,False,False,
 2022-04-01,LIE,Liechtenstein,,62.199806,17.637493,2487852,18365,,2469487,,,False,False,SE
 2022-04-03,LTU,Lithuania,Lithuania,55.174112,23.906736,1031739,8913,968021,54805,,,True,True,LT
-2022-03-31,LUX,Luxembourg,Luxembourg,49.815764,6.131514,216979,1037,,215942,,,True,True,LU
+2022-04-03,LUX,Luxembourg,Luxembourg,49.815764,6.131514,219390,1041,,218349,,,True,True,LU
 2022-04-01,MDG,Madagascar,,3.917845,-56.032028,79202,1324,,77878,,,False,False,SR
 2022-04-01,MDG,Madagascar,,34.814901,39.056126,55688,3140,,52548,,,False,False,SY
 2022-04-01,MDG,Madagascar,,12.54775,104.98386,135625,3054,,132571,,,False,False,KH
@@ -34341,7 +34341,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-04-04,CHE,Switzerland,Liechtenstein,47.164696,9.555,16559,84,16345,130,1,0,False,False,LI
 2022-04-04,CHE,Switzerland,Lucerne,47.06883,8.116991,175825,464,0,175361,84,0,False,False,CH061
 2022-04-04,CHE,Switzerland,Neuchâtel,46.997282,6.782288,73576,457,0,73119,36,1,False,False,CH024
-2022-04-04,CHE,Switzerland,Nidwalden,46.922198,8.419375,18054,36,0,18018,4,2,False,False,CH065
+2022-04-04,CHE,Switzerland,Nidwalden,46.922198,8.419375,18091,36,0,18055,4,1,False,False,CH065
 2022-04-04,CHE,Switzerland,Obwalden,46.857772,8.209745,16640,61,0,16579,3,0,False,False,CH064
 2022-04-04,CHE,Switzerland,Schaffhausen,47.721853,8.563863,31029,124,0,30905,15,2,False,False,CH052
 2022-04-04,CHE,Switzerland,Schwyz,47.06411,8.761568,57450,358,55875,1217,0,0,False,False,CH063
