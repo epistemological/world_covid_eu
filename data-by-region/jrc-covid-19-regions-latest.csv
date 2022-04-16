@@ -19884,7 +19884,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,LAO,Laos,Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,LAO,Laos,Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,LAO,Laos,Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2022-04-15,LVA,Latvia,Latvia,56.875584,24.607722,812686,5696,,806990,,,True,True,LV0
+2022-04-16,LVA,Latvia,Latvia,56.875584,24.607722,812877,5699,,807178,,,True,True,LV0
 2022-04-14,LBN,Lebanon,,33.930445,67.678945,178332,7676,,170656,,,False,False,AF
 2022-04-14,LBN,Lebanon,,-14.242914,-53.189267,30183929,661493,,29522436,,,False,False,BR
 2021-07-05,LBN,Lebanon,,41.903859,12.452041,26,0,,26,,,False,False,VA
@@ -20870,7 +20870,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-04-14,LIE,Liechtenstein,,23.886291,45.081139,752188,9062,,743126,,,False,False,SA
 2022-04-14,LIE,Liechtenstein,,1.365188,32.304651,163944,3597,,160347,,,False,False,UG
 2022-04-14,LIE,Liechtenstein,,26.696361,30.246486,511977,24522,,487455,,,False,False,EG
-2022-04-14,LTU,Lithuania,Lithuania,55.174112,23.906736,1047563,9004,1002464,36095,,,True,True,LT
+2022-04-15,LTU,Lithuania,Lithuania,55.174112,23.906736,1048704,9011,1005187,34506,,,True,True,LT
 2022-04-14,LUX,Luxembourg,Luxembourg,49.815764,6.131514,229311,1054,,228257,,,True,True,LU
 2022-04-14,MDG,Madagascar,,-21.123889,165.846901,60521,312,,60209,,,False,False,NC
 2022-04-14,MDG,Madagascar,,36.966428,-95.844032,79716960,979321,,78737639,,,False,False,US
@@ -34356,7 +34356,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-04-15,CHE,Switzerland,Glarus,46.980518,9.065544,11406,102,0,11304,7,0,False,False,CH051
 2022-04-15,CHE,Switzerland,Graubünden,46.658176,9.629923,89114,255,0,88859,32,1,False,False,CH056
 2022-04-15,CHE,Switzerland,Jura,47.368327,7.198733,30646,207,0,30439,32,0,False,False,CH025
-2022-04-15,CHE,Switzerland,Liechtenstein,47.164696,9.555,16946,84,16489,373,0,0,False,False,LI
+2022-04-15,CHE,Switzerland,Liechtenstein,47.164696,9.555,16975,84,16621,270,0,0,False,False,LI
 2022-04-15,CHE,Switzerland,Lucerne,47.06883,8.116991,177524,464,0,177060,84,0,False,False,CH061
 2022-04-15,CHE,Switzerland,Neuchâtel,46.997282,6.782288,75125,459,0,74666,24,0,False,False,CH024
 2022-04-15,CHE,Switzerland,Nidwalden,46.922198,8.419375,18293,36,0,18257,3,1,False,False,CH065
