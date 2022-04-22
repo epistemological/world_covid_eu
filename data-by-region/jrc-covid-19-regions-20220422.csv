@@ -11233,7 +11233,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-04-21,ERI,Eritrea,,43.942973,12.460035,16139,114,,16025,,,False,False,SM
 2022-04-21,ERI,Eritrea,,53.41975,-8.240472,1506963,6981,,1499982,,,False,False,IE
 2022-04-21,ERI,Eritrea,,43.738348,7.424451,11520,56,,11464,,,False,False,MC
-2022-04-21,EST,Estonia,Estonia,58.596209,25.023778,569347,,,569347,,,True,True,EE0
+2022-04-22,EST,Estonia,Estonia,58.596209,25.023778,569722,,,569722,,,True,True,EE0
 2022-04-21,ETH,Ethiopia,,,,6465,7,,6458,,,False,False,VU
 2022-04-21,ETH,Ethiopia,,18.22512,-63.07213,2731,9,,2722,,,False,False,AI
 2022-04-21,ETH,Ethiopia,,,,37038,187,,36851,,,False,False,
