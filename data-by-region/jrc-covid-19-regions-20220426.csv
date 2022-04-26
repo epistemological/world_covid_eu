@@ -23540,7 +23540,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-04-25,MNG,Mongolia,,4.577317,-74.298973,6091094,139771,,5951323,,,False,False,CO
 2022-04-25,MNG,Mongolia,,,,374295,742,,373553,,,False,False,
 2022-04-25,MNG,Mongolia,,34.886306,134.379711,7660012,29308,,7630704,,,False,False,JP
-2022-04-25,MNE,Montenegro,Montenegro,42.710152,19.410069,234760,2713,,232047,0,,False,True,ME
+2022-04-26,MNE,Montenegro,Montenegro,42.710152,19.410069,234876,2714,,232162,0,,False,True,ME
 2022-04-25,MSR,Montserrat,,,,147607,942,,146665,,,False,False,
 2022-04-25,MSR,Montserrat,,49.217445,-2.141055,49408,123,,49285,,,False,False,JE
 2022-04-25,MSR,Montserrat,,33.892166,9.561556,1039532,28533,,1010999,,,False,False,TN
