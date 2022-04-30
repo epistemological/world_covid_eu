@@ -34694,7 +34694,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-04-29,CHE,Switzerland,Glarus,46.980518,9.065544,11406,102,0,11304,7,0,False,False,CH051
 2022-04-29,CHE,Switzerland,Graubünden,46.658176,9.629923,89114,255,0,88859,32,1,False,False,CH056
 2022-04-29,CHE,Switzerland,Jura,47.368327,7.198733,30646,207,0,30439,32,0,False,False,CH025
-2022-04-29,CHE,Switzerland,Liechtenstein,47.164696,9.555,17171,84,16970,117,1,0,False,False,LI
+2022-04-29,CHE,Switzerland,Liechtenstein,47.164696,9.555,17185,84,16972,129,1,0,False,False,LI
 2022-04-29,CHE,Switzerland,Lucerne,47.06883,8.116991,178876,464,0,178412,84,0,False,False,CH061
 2022-04-29,CHE,Switzerland,Neuchâtel,46.997282,6.782288,75982,461,0,75521,31,1,False,False,CH024
 2022-04-29,CHE,Switzerland,Nidwalden,46.922198,8.419375,18423,36,0,18387,4,0,False,False,CH065
