@@ -20963,7 +20963,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-05-04,LIE,Liechtenstein,,64.583013,17.86411,1426796,3006,,1423790,,,False,False,NO
 2022-05-04,LIE,Liechtenstein,,12.54775,104.98386,136257,3056,,133201,,,False,False,KH
 2022-05-04,LTU,Lithuania,Lithuania,55.174112,23.906736,1059185,9111,1027730,22344,,,True,True,LT
-2022-05-03,LUX,Luxembourg,Luxembourg,49.815764,6.131514,240132,1068,,239064,,,True,True,LU
+2022-05-04,LUX,Luxembourg,Luxembourg,49.815764,6.131514,240675,1068,,239607,,,True,True,LU
 2021-09-20,MDG,Madagascar,,18.736509,-70.161744,355150,4796,,350354,,,False,False,DO
 2022-05-04,MDG,Madagascar,,,,37363,187,,37176,,,False,False,
 2022-05-04,MDG,Madagascar,,27.515709,90.442455,59358,21,,59337,,,False,False,BT
@@ -34698,7 +34698,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-05-05,CHE,Switzerland,Lucerne,47.06883,8.116991,179187,464,0,178723,84,0,False,False,CH061
 2022-05-05,CHE,Switzerland,Neuchâtel,46.997282,6.782288,76311,462,0,75849,26,2,False,False,CH024
 2022-05-05,CHE,Switzerland,Nidwalden,46.922198,8.419375,18494,36,0,18458,4,0,False,False,CH065
-2022-05-05,CHE,Switzerland,Obwalden,46.857772,8.209745,16915,61,0,16854,0,0,False,False,CH064
+2022-05-05,CHE,Switzerland,Obwalden,46.857772,8.209745,16940,61,0,16879,0,0,False,False,CH064
 2022-05-05,CHE,Switzerland,Schaffhausen,47.721853,8.563863,32162,129,0,32033,6,1,False,False,CH052
 2022-05-05,CHE,Switzerland,Schwyz,47.06411,8.761568,57450,358,55875,1217,0,0,False,False,CH063
 2022-05-05,CHE,Switzerland,Solothurn,47.336648,7.686944,115170,365,0,114805,6,1,False,False,CH023
@@ -34706,7 +34706,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-05-05,CHE,Switzerland,Thurgau,47.567205,9.112572,119874,679,2617,116578,16,1,False,False,CH057
 2022-05-05,CHE,Switzerland,Ticino,46.297963,8.808447,148066,1186,3411,143469,186,19,False,False,CH07
 2022-05-05,CHE,Switzerland,Uri,46.775402,8.627444,15432,68,0,15364,8,0,False,False,CH062
-2022-05-05,CHE,Switzerland,Valais,46.211633,7.611267,149451,815,0,148636,57,2,False,False,CH012
+2022-05-05,CHE,Switzerland,Valais,46.211633,7.611267,149940,816,0,149124,55,3,False,False,CH012
 2022-05-05,CHE,Switzerland,Vaud,46.56176,6.648929,335338,1018,0,334320,414,42,False,False,CH011
 2022-05-05,CHE,Switzerland,Zug,47.161402,8.538864,49784,169,11004,38611,35,6,False,False,CH066
 2022-05-05,CHE,Switzerland,Zurich,47.417407,8.655988,630078,1795,0,628283,133,27,False,False,CH040
@@ -38123,29 +38123,29 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-01-12,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,76159,,0,76159,,,False,True,UKM93
 2022-01-12,GBR,United Kingdom,Borders,55.572787,-2.786355,16658,,0,16658,,,False,True,UKM91
 2022-01-12,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,23589,,0,23589,,,False,True,UKM92
-2022-05-04,GBR,United Kingdom,East of England,52.248898,0.548756,2027771,,0,2027771,,,False,True,UKH
+2022-05-05,GBR,United Kingdom,East of England,52.248898,0.548756,2029072,,0,2029072,,,False,True,UKH
 2022-01-12,GBR,United Kingdom,Eileanan Siar (Western Isles),57.759892,-7.019403,2279,,0,2279,,,False,True,UKM64
-2022-05-04,GBR,United Kingdom,England,,,,152628,0,-152628,,,False,True,UK
+2022-05-05,GBR,United Kingdom,England,,,,153021,0,-153021,,,False,True,UK
 2022-01-12,GBR,United Kingdom,Fife,56.228968,-3.118568,69263,,0,69263,,,False,True,UKM72
 2022-01-12,GBR,United Kingdom,Forth Valley,56.211063,-4.237248,62505,,0,62505,,,False,True,UKM76
 2022-01-12,GBR,United Kingdom,Grampian,57.299016,-2.780773,86444,,0,86444,,,False,True,UKM50
 2022-01-12,GBR,United Kingdom,Greater Glasgow and Clyde,55.88154,-4.438215,277237,,0,277237,,,False,True,UKM82
 2022-01-12,GBR,United Kingdom,Highland,57.363501,-4.733034,42042,,0,42042,,,False,True,UKM6
 2022-01-12,GBR,United Kingdom,Lanarkshire,55.666656,-3.832477,164234,,0,164234,,,False,True,UKD4
-2022-05-04,GBR,United Kingdom,London,51.497136,-0.100571,2874985,,0,2874985,,,False,True,UKI
+2022-05-05,GBR,United Kingdom,London,51.497136,-0.100571,2876391,,0,2876391,,,False,True,UKI
 2022-01-12,GBR,United Kingdom,Lothian,55.946009,-2.728265,177279,,0,177279,,,False,True,UKM75
-2022-05-04,GBR,United Kingdom,Midlands,52.718351,-1.45667,3488293,,0,3488293,,,False,True,UKF
-2022-05-04,GBR,United Kingdom,North East and Yorkshire,54.022719,-1.268789,2742714,,0,2742714,,,False,True,UKC
-2022-05-04,GBR,United Kingdom,North West,53.524488,-2.333125,2561435,,0,2561435,,,False,True,UKD
-2022-05-04,GBR,United Kingdom,Northern Ireland,54.787715,-6.492314,708699,3424,0,705275,,,False,True,UKN
+2022-05-05,GBR,United Kingdom,Midlands,52.718351,-1.45667,3490021,,0,3490021,,,False,True,UKF
+2022-05-05,GBR,United Kingdom,North East and Yorkshire,54.022719,-1.268789,2744309,,0,2744309,,,False,True,UKC
+2022-05-05,GBR,United Kingdom,North West,53.524488,-2.333125,2562774,,0,2562774,,,False,True,UKD
+2022-05-05,GBR,United Kingdom,Northern Ireland,54.787715,-6.492314,709061,3425,0,705636,,,False,True,UKN
 2020-08-02,GBR,United Kingdom,NOT SPECIFIED,,,10,0,0,10,,,False,True,
 2022-01-12,GBR,United Kingdom,Orkney,58.98094,-2.960521,1682,,0,1682,,,False,True,UKM65
-2022-05-04,GBR,United Kingdom,Scotland,56.490671,-4.202646,1928951,12108,0,1916843,,,False,True,UKM
+2022-05-05,GBR,United Kingdom,Scotland,56.490671,-4.202646,1930600,12139,0,1918461,,,False,True,UKM
 2022-01-12,GBR,United Kingdom,Shetland,60.29623,-1.346738,1562,,0,1562,,,False,True,UKM66
-2022-05-04,GBR,United Kingdom,South East,51.291417,-0.521902,2998373,,0,2998373,,,False,True,UKJ
-2022-05-04,GBR,United Kingdom,South West,51.239761,-2.54375,1740679,,0,1740679,,,False,True,UKK
+2022-05-05,GBR,United Kingdom,South East,51.291417,-0.521902,3000049,,0,3000049,,,False,True,UKJ
+2022-05-05,GBR,United Kingdom,South West,51.239761,-2.54375,1741722,,0,1741722,,,False,True,UKK
 2022-01-12,GBR,United Kingdom,Tayside,56.610323,-3.555213,73658,,0,73658,,,False,True,UKM71
-2022-05-04,GBR,United Kingdom,Wales,52.302413,-3.738347,872824,7386,0,865438,,,False,True,UKL
+2022-05-05,GBR,United Kingdom,Wales,52.302413,-3.738347,872975,7399,0,865576,,,False,True,UKL
 2022-05-04,USA,United States of America,,-6.48825,148.403152,43823,650,,43173,,,False,False,PG
 2022-05-04,USA,United States of America,,31.418388,35.073541,4083921,10699,,4073222,,,False,False,IL
 2022-05-04,USA,United States of America,,5.152149,46.199616,26485,1361,,25124,,,False,False,SO
