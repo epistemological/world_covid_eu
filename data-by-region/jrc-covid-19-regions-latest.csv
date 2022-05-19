@@ -20974,7 +20974,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-05-18,LIE,Liechtenstein,,58.596209,25.023778,575046,2561,,572485,,,False,False,EE0
 2022-05-18,LIE,Liechtenstein,,39.553444,-7.839319,4114316,22665,,4091651,,,False,False,PT
 2022-05-18,LIE,Liechtenstein,,,,8110,160,,7950,,,False,False,KM
-2022-05-15,LTU,Lithuania,Lithuania,55.174112,23.906736,1060636,9129,1033053,18454,,,True,True,LT
+2022-05-18,LTU,Lithuania,Lithuania,55.174112,23.906736,1061242,9129,1034457,17656,,,True,True,LT
 2022-05-17,LUX,Luxembourg,Luxembourg,49.815764,6.131514,245750,1073,,244677,,,True,True,LU
 2022-05-18,MDG,Madagascar,,31.792306,-7.080168,1165849,16072,,1149777,,,False,False,MA
 2022-05-18,MDG,Madagascar,,,,5443,1,,5442,,,False,False,
